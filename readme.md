@@ -21,6 +21,8 @@ Using median instead of avarage function.
 
 Maybe some errors in the phash algorithm, please check it out when you actrually use it.
 
+I'm unfamiliar with JAVA, by the way.
+
 
 ## Maven
 
