@@ -24,6 +24,12 @@ Maybe some errors in the phash algorithm, please check it out when you actrually
 I'm unfamiliar with JAVA, by the way.
 
 
+## Speed
+
+0.5s/image, so, it's UNusable in produtive envirment abviously.
+Luck!
+
+
 ## Maven
 
 ```shell
