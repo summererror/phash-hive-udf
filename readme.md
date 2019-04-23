@@ -11,7 +11,7 @@
 
 
 ## Backgroud
-I use the [ImageHash](https://pypi.org/project/ImageHash/) [(GITHUB)](https://github.com/JohannesBuchner/imagehash) in Python code.
+I used the [ImageHash](https://pypi.org/project/ImageHash/) [(GITHUB)](https://github.com/JohannesBuchner/imagehash) in Python code.
 For easy to use, created the phash UDF for Hive for Java.
 The Java code refference from ["Chinese Blog about Phash in Java"](https://blog.csdn.net/sunhuaqiang1/article/details/70232679)
 
