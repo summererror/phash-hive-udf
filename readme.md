@@ -22,7 +22,7 @@ Using median instead of avarage function.
 Maybe some errors in the phash algorithm, please check it out when you actrually use it.
 
 
-## maven
+## Maven
 
 ```shell
 PATH_TO_MAVEN/mvn clean package
