@@ -1,4 +1,4 @@
-# hive UDF for phash
+# Hive UDF for phash
 
 
 ## License
