@@ -21,3 +21,13 @@ Using median instead of avarage function.
 
 Maybe some errors in the phash algorithm, please check it out when you actrually use it.
 
+
+## maven
+
+```shell
+PATH_TO_MAVEN/mvn clean package
+```
+
+then add the .jar to your Hive envirnment, and create the function.
+
+
